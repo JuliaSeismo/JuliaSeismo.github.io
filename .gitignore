@@ -1,0 +1,5 @@
+**/.DS_Store
+**/*.mseed
+**/*.ipynb
+**/notebooks
+**/.ipynb_checkpoints/
